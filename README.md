@@ -1,5 +1,3 @@
-# Hi, I'm Abraham 👋
-
 I'm a geospatial engineer and founder based in Calgary, Canada.
 I build software that helps people make sense of location data,
 from finding a parcel of land to choosing a neighbourhood.
